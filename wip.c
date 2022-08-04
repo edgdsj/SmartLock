@@ -1,4 +1,4 @@
 //corrigi o bug melhorei a correção
 //Trabalho corrente com alterações
-//trabalho feito por outro computador
+//A B
 //Trabalho feita na branch nova_ramificação
